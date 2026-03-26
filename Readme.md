@@ -46,8 +46,8 @@ local head = simplify.pathfast(
 > *Example:*
 ```lua
 local head = simplify.pathwait(
-    workspace,
-    "NPC/Head"
+  workspace,
+  "NPC/Head"
 )
 ```
 
@@ -68,7 +68,7 @@ local npc = value()
 > *Example:*
 ```lua
 simplify.schedule(function()
-    print("Runs next frame")
+  print("Runs next frame")
 end)
 ```
 
