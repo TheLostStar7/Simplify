@@ -2,7 +2,7 @@
 
 ### Fetch The Loader.
 
-> *This is needed to make the code functional. copy the code below, MAKE SURE IT'S ABOVE THE USAGE.*
+> *This is needed to make the code functional. Copy the code below, MAKE SURE IT'S ABOVE THE USAGE.*
 
 ```lua
 
