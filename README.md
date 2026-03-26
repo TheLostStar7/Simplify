@@ -6,5 +6,12 @@
 
 > *Example:*
 ```lua
-local npc = simplify.get(workspace, "Npc")
+
+local npc = simplify.get(
+  workspace,
+  "Npc"
+)
+
+-- Spaced for readability.
+
 ```
