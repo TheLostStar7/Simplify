@@ -6,7 +6,7 @@
 
 ```lua
 
-local simplify = loadstring(game:HttpGet("https://raw.githubusercontent.com/TheLostStar7/Simplify/refs/heads/main/Loader"))()
+local simplify = loadstring(game:HttpGet("https://raw.githubusercontent.com/TheLostStar7/Simplify/refs/heads/main/Loader.Luau"))()
 
 ```
 
